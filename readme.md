@@ -319,4 +319,4 @@ Department of Computer Science
 ## 📜 License
 
 This project is intended for **academic and research purposes only**.  
-All rights reserved © 2024.
+All rights reserved © 2026.
